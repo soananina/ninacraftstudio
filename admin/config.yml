@@ -7,7 +7,7 @@ backend:
     uploadMedia: "Catálogo: adiciona foto {{path}}"
 
 app_title: Nina Craft · Administração
-logo_url: ../nina-craft-logo.png
+logo_url: ../nina-craft-logo.webp
 
 media_folder: images/produtos
 public_folder: images/produtos
