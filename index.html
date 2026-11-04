@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nina Craft Studio | Catálogo</title>
+<meta name="description" content="Presentes e papelaria feitos à mão para guardar histórias. Scrapbook, impressão 3D e personalizados. Peça pelo WhatsApp.">
+<meta name="theme-color" content="#FFFAF3">
+<link rel="canonical" href="https://soananina.github.io/ninacraftstudio/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Nina Craft Studio | Catálogo">
+<meta property="og:description" content="Presentes e papelaria feitos à mão para guardar histórias.">
+<meta property="og:url" content="https://soananina.github.io/ninacraftstudio/">
+<meta property="og:image" content="https://soananina.github.io/ninacraftstudio/nina-craft-logo.png">
+<link rel="icon" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Nunito:wght@400;600;700;800&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <img class="hero-logo" src="nina-craft-logo.png" alt="Nina Craft Studio" width="360" height="360">
+    <div class="hero-copy">
+      <p class="eyebrow">Catálogo online</p>
+      <h1>Feito à mão, pensado para guardar histórias.</h1>
+      <p class="hero-text">Conheça os projetos da Nina Craft Studio e faça seu pedido pelo WhatsApp.</p>
+      <ul class="hero-tags" aria-label="O que fazemos">
+        <li>Scrapbook</li><li>Impressão 3D</li><li>Personalizados</li>
+      </ul>
+      <a class="hero-cta" href="#produtos">Ver os produtos</a>
+    </div>
+  </div>
+</header>
+
+<main id="produtos">
+  <nav class="filters" aria-label="Filtrar por categoria"><div id="filters" class="filters-row"></div></nav>
+  <section class="catalog" aria-labelledby="catalog-title">
+    <div class="catalog-head">
+      <h2 id="catalog-title">Todos os produtos</h2>
+      <span id="count" aria-live="polite"></span>
+    </div>
+    <div id="catalog" class="grid"></div>
+    <div id="empty" class="empty" hidden><h3>Novidades em breve</h3><p>O catálogo está sendo preparado com carinho.</p></div>
+    <noscript><p class="note">Ative o JavaScript para ver o catálogo.</p></noscript>
+  </section>
+
+  <section class="how" aria-labelledby="how-title">
+    <h2 id="how-title">Como pedir</h2>
+    <ol>
+      <li><strong>Escolha a peça</strong><span>Abra o produto para ver os detalhes.</span></li>
+      <li><strong>Chame no WhatsApp</strong><span>A mensagem já vai com o nome do produto.</span></li>
+      <li><strong>Combine os detalhes</strong><span>Cor, personalização, prazo e frete.</span></li>
+    </ol>
+  </section>
+  <p id="note" class="note" hidden>Imagens ilustrativas dos modelos. O resultado final pode apresentar pequenas variações de cor e marcas naturais da impressão 3D.</p>
+</main>
+
+<footer class="footer">
+  <p>Produção sob consulta.</p>
+  <a href="https://www.instagram.com/ninacraft_studio/" target="_blank" rel="noreferrer">@ninacraft_studio</a>
+  <a href="admin/">Administrar catálogo</a>
+</footer>
+
+<dialog id="detail" class="detail" aria-labelledby="detail-title">
+  <button id="detail-close" class="detail-close" type="button" aria-label="Fechar">×</button>
+  <div class="detail-media"><img id="detail-img" alt=""></div>
+  <div class="detail-body">
+    <p id="detail-cat" class="eyebrow"></p>
+    <h2 id="detail-title"></h2>
+    <div id="detail-price" class="price price-lg"></div>
+    <p id="detail-desc" class="detail-desc"></p>
+    <a id="detail-wa" class="wa wa-lg" target="_blank" rel="noreferrer">Pedir pelo WhatsApp</a>
+  </div>
+</dialog>
+<script src="catalogo.js"></script>
+</body>
+</html>

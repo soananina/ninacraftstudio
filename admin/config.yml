@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: soananina/ninacraftstudio
+  branch: main
+  commit_messages:
+    update: "Catálogo: atualiza {{slug}}"
+    uploadMedia: "Catálogo: adiciona foto {{path}}"
+
+app_title: Nina Craft · Administração
+logo_url: ../nina-craft-logo.png
+
+media_folder: images/produtos
+public_folder: images/produtos
+
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          quality: 82
+          width: 1200
+          height: 1200
+
+collections:
+  - name: catalogo
+    label: Catálogo
+    editor:
+      preview: false
+    files:
+      - name: produtos
+        label: Produtos
+        file: data/produtos.json
+        format: json
+        fields:
+          - name: products
+            label: Produtos
+            label_singular: produto
+            widget: list
+            collapsed: true
+            add_to_top: true
+            summary: "{{fields.name}}"
+            fields:
+              - { name: name, label: Nome, widget: string }
+              - name: category
+                label: Categoria
+                widget: select
+                options: [Natal, Presente afetivo, Personalizados, Organizadores, Scrapbook e bancada, Acessórios, Leitura]
+              - { name: description, label: Descrição, widget: text, required: false }
+              - name: priceLabel
+                label: Condição de preço
+                widget: string
+                default: Preço de lançamento
+                hint: "Exemplos: Preço de lançamento, Cada, A partir de, Pacote com 6, Sob consulta. Com Sob consulta, o preço não aparece."
+              - { name: price, label: Preço (R$), widget: number, value_type: float, min: 0, step: 0.01, default: 0 }
+              - { name: image, label: Foto, widget: image, required: false }
+              - { name: active, label: Aparece no catálogo, widget: boolean, default: true }
+      - name: config
+        label: WhatsApp
+        file: data/config.json
+        format: json
+        fields:
+          - name: whatsapp
+            label: WhatsApp dos pedidos
+            widget: string
+            hint: "Com país e DDD, só números. Exemplo: 5511999999999"

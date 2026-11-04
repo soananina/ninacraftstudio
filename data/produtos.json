@@ -1,0 +1,391 @@
+{
+  "products": [
+    {
+      "name": "Mini porta-joia",
+      "category": "Personalizados",
+      "description": "Porta-joia personalizado\n\nUm cantinho só seu para guardar as joias favoritas, com o nome de quem vai receber. Um presente delicado para dar a alguém especial ou para se presentear.\n• Personalizado com nome\n• Pronto para presentear\n• Produção: 2 dias úteis",
+      "priceLabel": "Cada",
+      "price": 27.9,
+      "image": "images/produtos/mini-porta-joia.webp",
+      "active": true
+    },
+    {
+      "name": "Carta Mágica do Papai Noel — Kit Personalizado",
+      "category": "Natal",
+      "description": "Uma correspondência muito especial, enviada diretamente da Oficina do Papai Noel para transformar o Natal dos pequenos em uma lembrança inesquecível! ✨\nO kit contém:\n💌 Carta personalizada com o nome da criança e mensagem do Papai Noel.\n\n🎄 Envelope especial com identificação de entrega do Polo Norte.\n\n🏅 Certificado oficial de bom comportamento, personalizado com o nome da criança.\n\nTudo impresso e preparado com carinho, em uma apresentação encantadora para surpreender os pequenos.\n✨ Personalizado especialmente para cada criança.\n🎁 Produzido sob encomenda.\n\nKit para 2 crianças R$ 31,90\nKit para 3 crianças R$ 45,90",
+      "priceLabel": "Preço de lançamento",
+      "price": 16.9,
+      "image": "images/produtos/carta-magica-do-papai-noel-kit-personalizado.webp",
+      "active": true
+    },
+    {
+      "name": "Chaveiro suporte de celular",
+      "category": "Acessórios",
+      "description": "Suporte Dobrável para Celular edição dia dos professores\nPrático, compacto e cheio de charme! \nFeito em impressão 3D, abre para apoiar o celular e dobra para facilitar o transporte. \nUma lembrança útil para deixar o dia a dia mais especial.",
+      "priceLabel": "Preço de lançamento",
+      "price": 9.9,
+      "image": "images/produtos/chaveiro-suporte-de-celular.webp",
+      "active": true
+    },
+    {
+      "name": "Kit chaveiro e porta polaroid",
+      "category": "Presente afetivo",
+      "description": "Chaveiro Câmera com Coração porta foto e porta foto\nFeito em impressão 3D, com formato de câmera, detalhe de coração e ferragens douradas. \nE um porta foto de mesa.\nUma lembrança delicada para presentear com carinho.",
+      "priceLabel": "Preço de lançamento",
+      "price": 15.9,
+      "image": "images/produtos/kit-chaveiro-e-porta-polaroid.webp",
+      "active": true
+    },
+    {
+      "name": "Álbum scrapbook",
+      "category": "Personalizados",
+      "description": "Álbum personalizado, feito especialmente para você de acordo com o tema escolhido — Disney, bebê, viagem, família e muito mais.\nO tamanho, a quantidade de páginas e as interações podem variar conforme o projeto.",
+      "priceLabel": "Sob consulta",
+      "price": 0,
+      "image": "images/produtos/album-scrapbook.webp",
+      "active": true
+    },
+    {
+      "name": "Passaporte Literário",
+      "category": "Leitura",
+      "description": "Um cantinho especial para registrar suas aventuras pelo mundo dos livros, guardar memórias de cada leitura e acompanhar sua jornada literária. Perfeito para quem ama transformar histórias em lembranças.",
+      "priceLabel": "Preço de lançamento",
+      "price": 49.9,
+      "image": "images/produtos/passaporte-literario.webp",
+      "active": true
+    },
+    {
+      "name": "Mini estante da Vida",
+      "category": "Presente afetivo",
+      "description": "Mini estante desenvolvida especialmente para você.\nSegue com 4 dados para marcar o dia ou quantos livros você leu no ano, 1 mini abajour, 1 porta retrato pequeno com uma foto sua e 7 livros com capas especialmente desenhadas para representar os marcos importantes da sua vida.",
+      "priceLabel": "Preço de lançamento",
+      "price": 79.9,
+      "image": "images/produtos/mini-estante-da-vida.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador ursinho com gavetas",
+      "category": "Organizadores",
+      "description": "Organizador decorativo com gavetas para miudezas e materiais criativos.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 169.9,
+      "image": "images/produtos/organizador-ursinho-com-gavetas.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador grande em formato de flor",
+      "category": "Organizadores",
+      "description": "Organizador espaçoso com compartimentos em pétalas e centro independente.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 159.9,
+      "image": "images/produtos/organizador-grande-em-formato-de-flor.webp",
+      "active": true
+    },
+    {
+      "name": "Porta-canetas bolsa de gatinha",
+      "category": "Scrapbook e bancada",
+      "description": "Bolsinha de gatinha para organizar canetas e enfeitar a bancada.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 34.9,
+      "image": "images/produtos/porta-canetas-bolsa-de-gatinha.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador com tampa estilo queijo",
+      "category": "Organizadores",
+      "description": "Organizador amplo e divertido com tampa para proteger o conteúdo.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 209.9,
+      "image": "images/produtos/organizador-com-tampa-estilo-queijo.webp",
+      "active": true
+    },
+    {
+      "name": "Tripé ajustável para celular",
+      "category": "Acessórios",
+      "description": "Tripé regulável para gravações, fotos e conteúdos do dia a dia.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 109.9,
+      "image": "images/produtos/tripe-ajustavel-para-celular.webp",
+      "active": true
+    },
+    {
+      "name": "Suporte alto para fotografar com celular",
+      "category": "Acessórios",
+      "description": "Apoio elevado para registrar processos, produtos e trabalhos de mesa.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 44.9,
+      "image": "images/produtos/suporte-alto-para-fotografar-com-celular.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador de gatinha arredondado",
+      "category": "Scrapbook e bancada",
+      "description": "Organizador lúdico para canetas, pincéis e pequenos acessórios.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 59.9,
+      "image": "images/produtos/organizador-de-gatinha-arredondado.webp",
+      "active": true
+    },
+    {
+      "name": "Porta-trecos marca-texto gigante",
+      "category": "Scrapbook e bancada",
+      "description": "Um porta-trecos divertido para canetas e materiais de estudo.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 44.9,
+      "image": "images/produtos/porta-trecos-marca-texto-gigante.webp",
+      "active": true
+    },
+    {
+      "name": "Kit com 5 molduras",
+      "category": "Acessórios",
+      "description": "Cinco molduras para montar uma composição coordenada de fotografias.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 44.9,
+      "image": "images/produtos/kit-com-5-molduras.webp",
+      "active": true
+    },
+    {
+      "name": "Moldura para foto instantânea",
+      "category": "Acessórios",
+      "description": "Moldura leve para destacar fotos e compor álbuns e painéis.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Cada",
+      "price": 9.9,
+      "image": "images/produtos/moldura-para-foto-instantanea.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador estilo armário escolar",
+      "category": "Organizadores",
+      "description": "Organizador decorativo inspirado em armário escolar, com compartimentos.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 169.9,
+      "image": "images/produtos/organizador-estilo-armario-escolar.webp",
+      "active": true
+    },
+    {
+      "name": "Expositor de fotos roda-gigante",
+      "category": "Organizadores",
+      "description": "Expositor marcante para transformar fotografias em decoração afetiva.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 249.9,
+      "image": "images/produtos/expositor-de-fotos-roda-gigante.webp",
+      "active": true
+    },
+    {
+      "name": "Kit decorativo Monstera",
+      "category": "Acessórios",
+      "description": "Conjunto coordenado com peça decorativa e porta-copo tropical.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 79.9,
+      "image": "images/produtos/kit-decorativo-monstera.webp",
+      "active": true
+    },
+    {
+      "name": "Capa para hidratante labial",
+      "category": "Acessórios",
+      "description": "Capa compacta para proteger e localizar o hidratante na bolsa.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 17.9,
+      "image": "images/produtos/capa-para-hidratante-labial.webp",
+      "active": true
+    },
+    {
+      "name": "Porta-batom com chaveiro",
+      "category": "Acessórios",
+      "description": "Proteção prática para levar seu batom preso à bolsa ou nécessaire.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 24.9,
+      "image": "images/produtos/porta-batom-com-chaveiro.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador estilo caixa de correio",
+      "category": "Organizadores",
+      "description": "Peça decorativa com amplo espaço para papelaria e pequenos objetos.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "A partir de",
+      "price": 139.9,
+      "image": "images/produtos/organizador-estilo-caixa-de-correio.webp",
+      "active": true
+    },
+    {
+      "name": "Suporte dobrável para celular",
+      "category": "Acessórios",
+      "description": "Apoio portátil e dobrável para chamadas, vídeos e receitas.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 14.9,
+      "image": "images/produtos/suporte-dobravel-para-celular.webp",
+      "active": true
+    },
+    {
+      "name": "Abridor de latinha borboleta",
+      "category": "Acessórios",
+      "description": "Acessório leve e charmoso para ajudar a abrir lacres de latinhas.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 19.9,
+      "image": "images/produtos/abridor-de-latinha-borboleta.webp",
+      "active": true
+    },
+    {
+      "name": "Caixinha personalizada do dentinho",
+      "category": "Presente afetivo",
+      "description": "Uma lembrança especial para guardar os dentinhos da infância.\n\nEscolha sua cor e nome.\nNome em baixo-relevo sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 79.9,
+      "image": "images/produtos/caixinha-personalizada-do-dentinho.webp",
+      "active": true
+    },
+    {
+      "name": "Gabarito para cantos",
+      "category": "Scrapbook e bancada",
+      "description": "Auxilia na marcação e no acabamento de cantos em projetos de papelaria.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 39.9,
+      "image": "images/produtos/gabarito-para-cantos.webp",
+      "active": true
+    },
+    {
+      "name": "Suporte compacto para cola",
+      "category": "Scrapbook e bancada",
+      "description": "Apoio compacto para ter a cola sempre à mão na bancada.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 19.9,
+      "image": "images/produtos/suporte-compacto-para-cola.webp",
+      "active": true
+    },
+    {
+      "name": "Suporte grande para cola",
+      "category": "Scrapbook e bancada",
+      "description": "Mantém frascos de cola organizados e prontos para o uso.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 49.9,
+      "image": "images/produtos/suporte-grande-para-cola.webp",
+      "active": true
+    },
+    {
+      "name": "Dispensador de lâminas",
+      "category": "Scrapbook e bancada",
+      "description": "Organiza lâminas de reposição e ajuda a manter a bancada segura.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 29.9,
+      "image": "images/produtos/dispensador-de-laminas.webp",
+      "active": true
+    },
+    {
+      "name": "Botões de ursinho 24 mm",
+      "category": "Scrapbook e bancada",
+      "description": "Apliques maiores de ursinho para decorar peças e embalagens.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Pacote com 6",
+      "price": 12.9,
+      "image": "images/produtos/botoes-de-ursinho-24-mm.webp",
+      "active": true
+    },
+    {
+      "name": "Botões de ursinho 12 mm",
+      "category": "Scrapbook e bancada",
+      "description": "Mini apliques de ursinho para projetos delicados e lembrancinhas.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Pacote com 10",
+      "price": 9.9,
+      "image": "images/produtos/botoes-de-ursinho-12-mm.webp",
+      "active": true
+    },
+    {
+      "name": "Botões de flor — pacote com 10",
+      "category": "Scrapbook e bancada",
+      "description": "Apliques florais para scrapbook, costura criativa e embalagens.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 14.9,
+      "image": "images/produtos/botoes-de-flor-pacote-com-10.webp",
+      "active": true
+    },
+    {
+      "name": "Kit com 5 clipes de bichinho",
+      "category": "Scrapbook e bancada",
+      "description": "Cinco clipes temáticos para marcar páginas e organizar papéis.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 49.9,
+      "image": "images/produtos/kit-com-5-clipes-de-bichinho.webp",
+      "active": true
+    },
+    {
+      "name": "Clipes de bichinho",
+      "category": "Scrapbook e bancada",
+      "description": "Clipes temáticos para marcar páginas, organizar papéis e decorar projetos.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Cada",
+      "price": 12.9,
+      "image": "images/produtos/clipes-de-bichinho.webp",
+      "active": true
+    },
+    {
+      "name": "Quadro barroco para ponto cruz",
+      "category": "Scrapbook e bancada",
+      "description": "Moldura delicada para bordados, scrapbook e composições afetivas.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 39.9,
+      "image": "images/produtos/quadro-barroco-para-ponto-cruz.webp",
+      "active": true
+    },
+    {
+      "name": "MemoryDex para scrapbook",
+      "category": "Scrapbook e bancada",
+      "description": "Estrutura 3D para montar, organizar e folhear seu álbum MemoryDex.\n\nEscolha sua cor.\nProdução sob consulta.\nPapéis, álbum e decoração da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 79.9,
+      "image": "images/produtos/memorydex-para-scrapbook.webp",
+      "active": true
+    },
+    {
+      "name": "Porta-canetas ursinho",
+      "category": "Scrapbook e bancada",
+      "description": "Um modelo lúdico para estudo, escritório ou presente.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 59.9,
+      "image": "images/produtos/porta-canetas-ursinho.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador bolsa",
+      "category": "Organizadores",
+      "description": "Bolsos externos e espaço interno para sua papelaria favorita.\n\nEscolha sua cor e nome.\nNome em baixo-relevo sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 59.9,
+      "image": "images/produtos/organizador-bolsa.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador Bloom",
+      "category": "Organizadores",
+      "description": "Compartimentos para canetas, pincéis e pequenos acessórios.\n\nEscolha sua cor e nome.\nNome em baixo-relevo sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 59.9,
+      "image": "images/produtos/organizador-bloom.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador de fitas",
+      "category": "Scrapbook e bancada",
+      "description": "Quatro níveis para fitas e bandeja para pequenos materiais.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 54.9,
+      "image": "images/produtos/organizador-de-fitas.webp",
+      "active": true
+    },
+    {
+      "name": "Tripé 5 em 1",
+      "category": "Acessórios",
+      "description": "Apoio versátil para gravações, demonstrações e vídeos de mesa.\n\nEscolha sua cor.\nProdução sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 49.9,
+      "image": "images/produtos/tripe-5-em-1.webp",
+      "active": true
+    },
+    {
+      "name": "Organizador bolsa escolar",
+      "category": "Organizadores",
+      "description": "Organização charmosa para canetas e materiais do dia a dia.\n\nEscolha sua cor e nome.\nNome em baixo-relevo sob consulta.\nAcessórios da foto não inclusos.",
+      "priceLabel": "Preço de lançamento",
+      "price": 69.9,
+      "image": "images/produtos/organizador-bolsa-escolar.webp",
+      "active": true
+    }
+  ]
+}
